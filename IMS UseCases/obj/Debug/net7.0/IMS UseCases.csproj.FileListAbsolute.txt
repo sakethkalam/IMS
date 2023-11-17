@@ -1,0 +1,15 @@
+/Users/sakethkalam/Projects/IMS/IMS UseCases/bin/Debug/net7.0/IMS UseCases.deps.json
+/Users/sakethkalam/Projects/IMS/IMS UseCases/bin/Debug/net7.0/IMS UseCases.dll
+/Users/sakethkalam/Projects/IMS/IMS UseCases/bin/Debug/net7.0/IMS UseCases.pdb
+/Users/sakethkalam/Projects/IMS/IMS UseCases/bin/Debug/net7.0/IMS.CoreBusiness.dll
+/Users/sakethkalam/Projects/IMS/IMS UseCases/bin/Debug/net7.0/IMS.CoreBusiness.pdb
+/Users/sakethkalam/Projects/IMS/IMS UseCases/obj/Debug/net7.0/IMS UseCases.csproj.AssemblyReference.cache
+/Users/sakethkalam/Projects/IMS/IMS UseCases/obj/Debug/net7.0/IMS UseCases.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sakethkalam/Projects/IMS/IMS UseCases/obj/Debug/net7.0/IMS UseCases.AssemblyInfoInputs.cache
+/Users/sakethkalam/Projects/IMS/IMS UseCases/obj/Debug/net7.0/IMS UseCases.AssemblyInfo.cs
+/Users/sakethkalam/Projects/IMS/IMS UseCases/obj/Debug/net7.0/IMS UseCases.csproj.CoreCompileInputs.cache
+/Users/sakethkalam/Projects/IMS/IMS UseCases/obj/Debug/net7.0/IMS UseCases.csproj.CopyComplete
+/Users/sakethkalam/Projects/IMS/IMS UseCases/obj/Debug/net7.0/IMS UseCases.dll
+/Users/sakethkalam/Projects/IMS/IMS UseCases/obj/Debug/net7.0/refint/IMS UseCases.dll
+/Users/sakethkalam/Projects/IMS/IMS UseCases/obj/Debug/net7.0/IMS UseCases.pdb
+/Users/sakethkalam/Projects/IMS/IMS UseCases/obj/Debug/net7.0/ref/IMS UseCases.dll

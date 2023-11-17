@@ -1,0 +1,17 @@
+/Users/sakethkalam/Projects/IMS/IMS.Plugins/IMS.Plugins.InMemory/bin/Debug/net7.0/IMS.Plugins.InMemory.deps.json
+/Users/sakethkalam/Projects/IMS/IMS.Plugins/IMS.Plugins.InMemory/bin/Debug/net7.0/IMS.Plugins.InMemory.dll
+/Users/sakethkalam/Projects/IMS/IMS.Plugins/IMS.Plugins.InMemory/bin/Debug/net7.0/IMS.Plugins.InMemory.pdb
+/Users/sakethkalam/Projects/IMS/IMS.Plugins/IMS.Plugins.InMemory/bin/Debug/net7.0/IMS UseCases.dll
+/Users/sakethkalam/Projects/IMS/IMS.Plugins/IMS.Plugins.InMemory/bin/Debug/net7.0/IMS.CoreBusiness.dll
+/Users/sakethkalam/Projects/IMS/IMS.Plugins/IMS.Plugins.InMemory/bin/Debug/net7.0/IMS UseCases.pdb
+/Users/sakethkalam/Projects/IMS/IMS.Plugins/IMS.Plugins.InMemory/bin/Debug/net7.0/IMS.CoreBusiness.pdb
+/Users/sakethkalam/Projects/IMS/IMS.Plugins/IMS.Plugins.InMemory/obj/Debug/net7.0/IMS.Plugins.InMemory.csproj.AssemblyReference.cache
+/Users/sakethkalam/Projects/IMS/IMS.Plugins/IMS.Plugins.InMemory/obj/Debug/net7.0/IMS.Plugins.InMemory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sakethkalam/Projects/IMS/IMS.Plugins/IMS.Plugins.InMemory/obj/Debug/net7.0/IMS.Plugins.InMemory.AssemblyInfoInputs.cache
+/Users/sakethkalam/Projects/IMS/IMS.Plugins/IMS.Plugins.InMemory/obj/Debug/net7.0/IMS.Plugins.InMemory.AssemblyInfo.cs
+/Users/sakethkalam/Projects/IMS/IMS.Plugins/IMS.Plugins.InMemory/obj/Debug/net7.0/IMS.Plugins.InMemory.csproj.CoreCompileInputs.cache
+/Users/sakethkalam/Projects/IMS/IMS.Plugins/IMS.Plugins.InMemory/obj/Debug/net7.0/IMS.Plugins.InMemory.csproj.CopyComplete
+/Users/sakethkalam/Projects/IMS/IMS.Plugins/IMS.Plugins.InMemory/obj/Debug/net7.0/IMS.Plugins.InMemory.dll
+/Users/sakethkalam/Projects/IMS/IMS.Plugins/IMS.Plugins.InMemory/obj/Debug/net7.0/refint/IMS.Plugins.InMemory.dll
+/Users/sakethkalam/Projects/IMS/IMS.Plugins/IMS.Plugins.InMemory/obj/Debug/net7.0/IMS.Plugins.InMemory.pdb
+/Users/sakethkalam/Projects/IMS/IMS.Plugins/IMS.Plugins.InMemory/obj/Debug/net7.0/ref/IMS.Plugins.InMemory.dll

@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <RootNamespace>IMS_UseCases</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Inventories\" />
+    <None Remove="PluginsInterface\" />
+    <None Remove="Inventories\Interfaces\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Inventories\" />
+    <Folder Include="PluginsInterface\" />
+    <Folder Include="Inventories\Interfaces\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\IMS.CoreBusiness\IMS.CoreBusiness.csproj" />
+  </ItemGroup>
+</Project>

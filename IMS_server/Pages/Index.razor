@@ -1,0 +1,33 @@
+﻿@page "/"
+@using IMS.CoreBusiness;
+@using IMS.Plugins.InMemory;
+@using IMS_UseCases.Inventories;
+
+@inject IViewInventoriesByNameUseCase ViewInventoriesByNameUseCase
+
+<h1>Test Page</h1>
+<ul>
+    @foreach (var inv in _inventories)
+    {   
+     <li>
+            @inv.InventoryName
+        </li>
+
+        <li>
+            @inv.price
+        </li>
+        }
+    </ul>
+
+
+    @code {
+
+private List<Inventory> _inventories = new List<Inventory>();
+
+    protected override async Task OnInitializedAsync()
+    {
+        _inventories = (await ViewInventoriesByNameUseCase.ExecuteAsync()).ToList();
+    }
+
+    }
+

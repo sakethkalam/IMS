@@ -1,0 +1,12 @@
+/Users/sakethkalam/Projects/IMS/IMS.CoreBusiness/bin/Debug/net7.0/IMS.CoreBusiness.deps.json
+/Users/sakethkalam/Projects/IMS/IMS.CoreBusiness/bin/Debug/net7.0/IMS.CoreBusiness.dll
+/Users/sakethkalam/Projects/IMS/IMS.CoreBusiness/bin/Debug/net7.0/IMS.CoreBusiness.pdb
+/Users/sakethkalam/Projects/IMS/IMS.CoreBusiness/obj/Debug/net7.0/IMS.CoreBusiness.csproj.AssemblyReference.cache
+/Users/sakethkalam/Projects/IMS/IMS.CoreBusiness/obj/Debug/net7.0/IMS.CoreBusiness.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sakethkalam/Projects/IMS/IMS.CoreBusiness/obj/Debug/net7.0/IMS.CoreBusiness.AssemblyInfoInputs.cache
+/Users/sakethkalam/Projects/IMS/IMS.CoreBusiness/obj/Debug/net7.0/IMS.CoreBusiness.AssemblyInfo.cs
+/Users/sakethkalam/Projects/IMS/IMS.CoreBusiness/obj/Debug/net7.0/IMS.CoreBusiness.csproj.CoreCompileInputs.cache
+/Users/sakethkalam/Projects/IMS/IMS.CoreBusiness/obj/Debug/net7.0/IMS.CoreBusiness.dll
+/Users/sakethkalam/Projects/IMS/IMS.CoreBusiness/obj/Debug/net7.0/refint/IMS.CoreBusiness.dll
+/Users/sakethkalam/Projects/IMS/IMS.CoreBusiness/obj/Debug/net7.0/IMS.CoreBusiness.pdb
+/Users/sakethkalam/Projects/IMS/IMS.CoreBusiness/obj/Debug/net7.0/ref/IMS.CoreBusiness.dll

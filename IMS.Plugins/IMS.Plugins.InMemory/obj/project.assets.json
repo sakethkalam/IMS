@@ -1,0 +1,112 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "IMS UseCases/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "IMS.CoreBusiness": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/IMS UseCases.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IMS UseCases.dll": {}
+        }
+      },
+      "IMS.CoreBusiness/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/IMS.CoreBusiness.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IMS.CoreBusiness.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IMS UseCases/1.0.0": {
+      "type": "project",
+      "path": "../../IMS UseCases/IMS UseCases.csproj",
+      "msbuildProject": "../../IMS UseCases/IMS UseCases.csproj"
+    },
+    "IMS.CoreBusiness/1.0.0": {
+      "type": "project",
+      "path": "../../IMS.CoreBusiness/IMS.CoreBusiness.csproj",
+      "msbuildProject": "../../IMS.CoreBusiness/IMS.CoreBusiness.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "IMS UseCases >= 1.0.0",
+      "IMS.CoreBusiness >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/sakethkalam/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/sakethkalam/Projects/IMS/IMS.Plugins/IMS.Plugins.InMemory/IMS.Plugins.InMemory.csproj",
+      "projectName": "IMS.Plugins.InMemory",
+      "projectPath": "/Users/sakethkalam/Projects/IMS/IMS.Plugins/IMS.Plugins.InMemory/IMS.Plugins.InMemory.csproj",
+      "packagesPath": "/Users/sakethkalam/.nuget/packages/",
+      "outputPath": "/Users/sakethkalam/Projects/IMS/IMS.Plugins/IMS.Plugins.InMemory/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/sakethkalam/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "/usr/local/share/dotnet/library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "/Users/sakethkalam/Projects/IMS/IMS UseCases/IMS UseCases.csproj": {
+              "projectPath": "/Users/sakethkalam/Projects/IMS/IMS UseCases/IMS UseCases.csproj"
+            },
+            "/Users/sakethkalam/Projects/IMS/IMS.CoreBusiness/IMS.CoreBusiness.csproj": {
+              "projectPath": "/Users/sakethkalam/Projects/IMS/IMS.CoreBusiness/IMS.CoreBusiness.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.309/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
